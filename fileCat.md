@@ -10,3 +10,8 @@ catcat
 合併
 先移動到master才能做合併
 	git merge cat
+
+
+補充
+刪除
+	git branch -d cat
